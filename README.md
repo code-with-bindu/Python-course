@@ -21,6 +21,6 @@ The Course includes all the basic concepts of Python. Python Programming Languag
 
 * There are Practice Questions to practice, also the solution is provided.
 In case of any Queries and Doubts please contact me on lInkedin.
-My Linkedin Profile Link: https://www.linkedin.com/in/roshansharmadatascience/
+My Linkedin Profile Link: https://www.linkedin.com/in/hima-bindu-6abb10204/
 
 Thanks and Happy Learning!
